@@ -1,0 +1,14 @@
+
+.list{
+    display: flex;
+    padding: 0px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin: 10px auto;
+    flex-wrap: wrap;
+}
+
+.image{
+    margin-left: 20px;
+    border-radius: 6px;
+}
