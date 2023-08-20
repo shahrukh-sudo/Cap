@@ -89,6 +89,7 @@ const Newexperience = () => {
           <div
             data-ref="carousel_title_find-new-experiences"
             className="css-pmjet0"
+            style={{fontSize:30, fontWeight:300}}
           >
             FIND NEW EXPERIENCES
           </div>

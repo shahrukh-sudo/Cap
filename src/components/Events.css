@@ -1,0 +1,133 @@
+.css-13n090z {
+    width: 100%;
+    /* background: white; */
+    position: relative;
+    overflow: visible;
+    white-space: normal;
+    border-radius: 12px;
+    border: 1px solid #f0f1f2;
+    overflow: hidden;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+
+}
+
+.css-15yaod1 {
+    display: block;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-color: #eee;
+    height: calc(100% * calc(450/820) / calc(450/560));
+}
+
+.css-r2lb3z {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    padding: 9px;
+    position: absolute;
+    display: block;
+    z-index: 1;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    font-weight: bold;
+    background: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,#000 100%);
+}
+
+.css-78z90 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 9px;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 12px;
+    gap: 9px;
+}
+
+.css-lxjy02 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 9px;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 9px;
+    gap: 6px;
+}
+
+.css-lxjy02 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 9px;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 9px;
+    gap: 6px;
+}
+
+.css-181s7a2 {
+    color: #45474D;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 150%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.css-16nraq9 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 9px;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 3px;
+    border-radius: 9px;
+    background: #F5FCFE;
+    width: 100%;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    color: #0c172f;
+    font-family: 'korolev-condensed';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    text-transform: uppercase;
+    height: 38px;
+}
+
+.css-13n090z {
+    width: 100%;
+    /* background: white; */
+    position: relative;
+    overflow: visible;
+    white-space: normal;
+    border-radius: 12px;
+    border: 1px solid #f0f1f2;
+    overflow: hidden;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+}
