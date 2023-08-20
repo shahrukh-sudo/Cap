@@ -1,0 +1,24 @@
+
+.list{
+    display: flex;
+    padding: 0px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin: 10px auto;
+    flex-wrap: wrap;
+}
+
+.image{
+    margin-left: 20px;
+    border-radius: 6px;
+}
+
+.card-list, .partner-list {
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    clear: both;
+    min-height: 10px;
+}
